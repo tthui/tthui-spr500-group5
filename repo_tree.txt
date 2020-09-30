@@ -1,0 +1,77 @@
+.
+├── .git
+│   ├── branches
+│   ├── COMMIT_EDITMSG
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── master
+│   │       └── remotes
+│   │           └── origin
+│   │               ├── HEAD
+│   │               └── master
+│   ├── objects
+│   │   ├── 16
+│   │   │   └── e839996b395c2b7fe1f1d4a73c66c9300f2824
+│   │   ├── 17
+│   │   │   └── f123ba38b49fb0b2441027efbb5290d9ff0108
+│   │   ├── 1e
+│   │   │   └── 833bd7eaecd09faf54a3dc0e18cd82ee76684b
+│   │   ├── 25
+│   │   │   └── a5d57b82c412787ae40b73e13e2b6a72bacaca
+│   │   ├── 2e
+│   │   │   └── c891209581863bf61d5320a54977fc9fd5fd84
+│   │   ├── 41
+│   │   │   └── 7baa880a835dceff19c1dc9f94d770d6269f04
+│   │   ├── 4e
+│   │   │   └── 6143c3140872a429c70cd7aeea6b059feea142
+│   │   ├── 51
+│   │   │   └── 86e7a2f6d4b4d9f21457976de8c947837a429a
+│   │   ├── 82
+│   │   │   └── 61cbd8eda21775dee377cf430990d8cc37f97d
+│   │   ├── a3
+│   │   │   └── e69995d4dcb173aa962b02602b0ef8ba2721f6
+│   │   ├── c5
+│   │   │   └── 71702dcbfe3553dabd8914d019793b1ff21103
+│   │   ├── c7
+│   │   │   └── d5ab81d973d13728e0e3cd6f5982139ac7255a
+│   │   ├── ce
+│   │   │   └── 39df1edc58e6354e643b8c5dcaa2c5df11a707
+│   │   ├── f9
+│   │   │   └── 1a85c0bf498ad81905f12b5977320ca66f2d3e
+│   │   ├── info
+│   │   └── pack
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── master
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── master
+│       └── tags
+├── gitlog.txt
+├── README.md
+├── repo_tree.txt
+└── tthui_gateway_base.txt
+
+31 directories, 43 files

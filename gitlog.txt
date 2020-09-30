@@ -1,0 +1,38 @@
+commit c7d5ab81d973d13728e0e3cd6f5982139ac7255a
+Author: Student <student@localhost.localdomain>
+Date:   Fri Sep 25 16:59:20 2020 -0400
+
+    Add existing file
+
+commit 4e6143c3140872a429c70cd7aeea6b059feea142
+Author: tthui <71900122+tthui@users.noreply.github.com>
+Date:   Fri Sep 25 16:40:14 2020 -0400
+
+    Delete output.txt
+
+commit f91a85c0bf498ad81905f12b5977320ca66f2d3e
+Author: Student <student@localhost.localdomain>
+Date:   Fri Sep 25 16:34:53 2020 -0400
+
+    Add existing file
+
+commit 17f123ba38b49fb0b2441027efbb5290d9ff0108
+Merge: 25a5d57 5186e7a
+Author: tthui <71900122+tthui@users.noreply.github.com>
+Date:   Fri Sep 25 14:45:00 2020 -0400
+
+    Merge pull request #1 from tthui/readme-edits
+    
+     README edits
+
+commit 5186e7a2f6d4b4d9f21457976de8c947837a429a
+Author: tthui <71900122+tthui@users.noreply.github.com>
+Date:   Fri Sep 25 14:43:00 2020 -0400
+
+    Update README.md
+
+commit 25a5d57b82c412787ae40b73e13e2b6a72bacaca
+Author: tthui <71900122+tthui@users.noreply.github.com>
+Date:   Fri Sep 25 14:37:30 2020 -0400
+
+    Initial commit
